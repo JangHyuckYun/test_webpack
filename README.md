@@ -2,4 +2,4 @@
 
 # npm i
 
-# npm webpack
+# npm run webpack
